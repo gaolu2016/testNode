@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "this is my test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaolu2016/testNode.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "gaolu <gaolu2016@qq.com> (http://www.cqput.edu.cn)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaolu2016/testNode/issues"
+  },
+  "homepage": "https://github.com/gaolu2016/testNode#readme"
+}
